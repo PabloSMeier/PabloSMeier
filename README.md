@@ -1,16 +1,66 @@
-## Hi there 👋
+# ¡Hola, soy Pablo Meier! 👋
 
-<!--
-**PabloSMeier/PabloSMeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y escalables. Me destaco en el desarrollo web, especialmente en Front End, utilizando diversas tecnologías modernas y metodologías ágiles.
 
-Here are some ideas to get you started:
+## 📊 Mis Contribuciones
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=PabloSMeier&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Racha de Contribuciones
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloSMeier&theme=dark)
+
+## 🌟 Lenguajes Más Usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSMeier&layout=compact&theme=radical)
+## 🚀 Tecnologías y Herramientas
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+### Estilos
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Bases de datos
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### ORM
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white)
+
+### Control de versiones
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Metodologías
+![Scrum](https://img.shields.io/badge/-Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+## 💼 Proyectos Destacados
+- [Reserva Gol](https://github.com/Tomasdmiguel/Proyecto-Final-Front): Plataforma innovadora para reserva de canchas deportivas.
+- [Ecommerce](https://github.com/PabloSMeier/M4-ecommerce): Aplicación web de comercio electrónico con funcionalidades avanzadas.
+
+
+## 🌟 Aptitudes
+- Desarrollo Front End y Full Stack
+- Diseño de Interfaces de Usuario (UI/UX)
+- Resolución de problemas
+- Colaboración en equipo
+- Gestión del tiempo
+- Adaptabilidad
+
+## 🎓 Educación
+- Full Stack Developer | Front End Specialist - Henry (2024)
+- Técnico en Programación - Escuela de Educación Secundaria Técnica Nº1 "Batalla de la Vuelta de Obligado" (2017-2023)
+
+## 📫 Contáctame
+- LinkedIn: [Pablo Meier](https://www.linkedin.com/in/pablo-meier-519724268/)
+- Email: psmeier05@gmail.com
+
+¡No dudes en explorar mis repositorios y contactarme para cualquier colaboración o propuesta interesante!
